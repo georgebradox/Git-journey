@@ -1,0 +1,48 @@
+[33mcommit 85ca84b287be234692ca3672cb8d499f40224542[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;32mstaging[m[33m, [m[1;32mdevelopment[m[33m)[m
+Merge: 7ad0e4d 0adffa7
+Author: georgebrodox <georgebrodox@gmail.com>
+Date:   Tue May 26 00:32:57 2026 +0300
+
+    merging conflict solved
+
+[33mcommit 7ad0e4d91e49165b1ee02b1bee91935659da95f1[m
+Author: georgebrodox <georgebrodox@gmail.com>
+Date:   Tue May 26 00:25:37 2026 +0300
+
+    Made changes
+
+[33mcommit 0adffa72e0ffc758e93f5269c93b525c298d2616[m
+Author: georgebrodox <georgebrodox@gmail.com>
+Date:   Tue May 26 00:23:15 2026 +0300
+
+    Modified four.txt
+
+[33mcommit 57689d2c8fc84a9531c911095003cc625d37fc2a[m
+Author: georgebrodox <georgebrodox@gmail.com>
+Date:   Tue May 26 00:11:35 2026 +0300
+
+    made changes
+
+[33mcommit 353614294bfed05795cce9607c63fa94e83d0801[m
+Author: georgebrodox <georgebrodox@gmail.com>
+Date:   Mon May 25 23:56:57 2026 +0300
+
+    Made some changes
+
+[33mcommit d026dd2d9dae5d5df6b4843ad0c697ff2d3fcf5f[m
+Author: georgebrodox <georgebrodox@gmail.com>
+Date:   Mon May 25 23:25:07 2026 +0300
+
+    I have made some changes
+
+[33mcommit 569e2c3073d7cda8adc75bff29028275f48f59d1[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: georgebradox <georgebrodox@gmail.com>
+Date:   Mon May 25 14:28:06 2026 +0300
+
+    Add initial content to two.txt
+
+[33mcommit d3520589692e539a7e9946bc2a7ff698ad4a0948[m
+Author: georgebradox <georgebrodox@gmail.com>
+Date:   Mon May 25 14:26:24 2026 +0300
+
+    Add initial content to one.txt
